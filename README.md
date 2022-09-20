@@ -1,6 +1,6 @@
 # SimpleChattyBot
-This is a short code challenge that can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
+Here, at the beginning of your programmer’s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own.
 This project is a part of the [Kotlin Basics](https://hyperskill.org/tracks/18) track on JetBrains Academy.
 
 ## Learning Outcomes
-This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
+Get to know the basic syntax of Kotlin and write a simple program using variables, conditions, loops, and functions.
